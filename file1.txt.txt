@@ -2,9 +2,9 @@ this is my first git..................welcome to git bro .....
 
 class HelloGit{
 
-		main(){
+		public static void main(String [] args){
 
-	sysout("hello git")
+	sysout("hello git");
 
 	}
 } 
