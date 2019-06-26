@@ -1,1 +1,10 @@
 this is my first git..................welcome to git bro .....
+
+class HelloGit{
+
+		main(){
+
+	sysout("hello git")
+
+	}
+} 
