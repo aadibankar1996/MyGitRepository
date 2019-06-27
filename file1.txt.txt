@@ -1,4 +1,4 @@
-this is my first git..................welcome to git bro .....
+//this is my first git..................welcome to git bro .....
 
 class HelloGit{
 		void hellogit(){
@@ -6,6 +6,8 @@ class HelloGit{
 }
 
 		public static void main(String [] args){
+		hellogit obj = new hellogit();
+		pbj.hellogit();
 
 	system.out.println("hello git");
 
