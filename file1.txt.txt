@@ -15,7 +15,7 @@ class HelloGit{
 
 	}
 	void mybigmwthod(){
-	sysout("has method imp")
+	system.out.println("has method imp")
 	sysout("")
 }
 } 
