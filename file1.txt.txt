@@ -12,5 +12,7 @@ class HelloGit{
 	system.out.println("hello git");
 
 	}
+	void mybigmwthod(){
+	sysout("has method imp")
 }
 } 
