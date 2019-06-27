@@ -1,13 +1,15 @@
 //this is my first git..................welcome to git bro .....
 // form,bug
 class HelloGit{
-		static void hellogit(){
+
+		public static final void hellogit(){
+>>>>>>> idea
 		sysout ("hello git welcome")
 }
 
 		public static void main(String [] args){
 		hellogit obj = new hellogit();
-		pbj.hellogit();
+		obj.hellogit("hello");
 
 	system.out.println("hello git");
 
